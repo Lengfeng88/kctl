@@ -1,5 +1,7 @@
 # kctl
 
+![CI](https://github.com/Lengfeng88/kctl/actions/workflows/ci.yml/badge.svg)
+
 Lock-free systems runtime library for latency-sensitive C++ (drivers,
 profilers, and similar predictable-latency workloads). RAII resource
 wrappers, bounded lock-free queues, and thread pools — all header-only,
